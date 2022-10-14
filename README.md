@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awsgandouz&label=Profile%20views&color=0e75b6&style=flat" alt="awsgandouz" /> </p>
 
-- 🌱 I’m currently learning **Back-end Engineering**
+- 🌱 I’m currently learning **Back-End Engineering**
 
 - 💬 Ask me about **Data Structures && Algorithms**
 
