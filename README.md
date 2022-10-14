@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Back-End Engineering**
 
-- 💬 Ask me about **Data Structures && Algorithms**
+- 💬 Ask me about **Data Structures & Algorithms**
 
 - 📫 How to reach me **gandouzaws@gmail.com**
 
