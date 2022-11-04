@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aws</h1>
 <h3 align="center">Competitive Programmer And Software Engineering Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awsgandouz&label=Profile%20views&color=0e75b6&style=flat" alt="awsgandouz" /> </p>
 
 - 🌱 I’m currently learning **Back-End Engineering**
 
