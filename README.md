@@ -2,7 +2,7 @@
 <h3 align="center">Competitive Programmer And Software Engineering Student</h3>
 
 
-- 🌱 I’m currently learning **Back-End Engineering**
+- 🌱 I’m currently working on an **IOT project**
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
