@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **gandouzaws@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aws-ben-gandouz-790398221/](https://www.linkedin.com/in/aws-ben-gandouz-790398221/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/awsgandouz/](https://www.linkedin.com/in/awsgandouz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
