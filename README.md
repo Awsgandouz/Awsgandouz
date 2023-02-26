@@ -2,7 +2,7 @@
 <h3 align="center">Competitive Programmer And Software Engineering Student</h3>
 
 
-- 🌱 I’m currently learning Software Development**  
+- 🌱 I’m currently learning **Software Development**  
 
 - 💬 Ask me about **Data Structures & Algorithms**
 
