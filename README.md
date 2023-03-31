@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aws</h1>
-<h3 align="center">Competitive Programmer And Software Engineering Student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 
 - 🌱 I’m currently learning **Software Development**  
