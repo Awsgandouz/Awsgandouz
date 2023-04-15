@@ -4,10 +4,11 @@
 <p align="center">
   - 🌱 I’m currently learning <b>Software Development</b><br>
   - 💬 Ask me about <b>Data Structures & Algorithms</b><br>
-  - 📄 Know about my experiences <a href="https://www.linkedin.com/in/awsgandouz/"><b>https://www.linkedin.com/in/awsgandouz/</b></a>
+  feel free to <a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/awsgandouz/)">connect</a> with me !
 </p>
 
 <p align="center">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Awsgandouz&theme=radical&hide_border=false" />
 </p>
 
