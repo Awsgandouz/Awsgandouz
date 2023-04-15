@@ -4,7 +4,6 @@
 <p align="center">
   - 🌱 I’m currently learning <b>Software Development</b><br>
   - 💬 Ask me about <b>Data Structures & Algorithms</b><br>
-  - 📫 How to reach me <b>gandouzaws@gmail.com</b><br>
   - 📄 Know about my experiences <a href="https://www.linkedin.com/in/awsgandouz/"><b>https://www.linkedin.com/in/awsgandouz/</b></a>
 </p>
 
