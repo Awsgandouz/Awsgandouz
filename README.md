@@ -6,6 +6,7 @@
   - 💬 Ask me about <b>Data Structures & Algorithms</b><br>
   <br>
   feel free to <a href="https://www.linkedin.com/in/awsgandouz/">connect</a> with me !
+  <br>
 </p>
 
 <p align="center">
